@@ -1,0 +1,14 @@
+body {
+      padding: 40px;
+      background-color: #f8f9fa;
+    }
+
+    .result-item:hover {
+      background-color: #f1f1f1;
+      cursor: pointer;
+    }
+
+    #resultados {
+      max-height: 300px;
+      overflow-y: auto;
+    }
